@@ -1,0 +1,17 @@
+D:\c#\HW`S\HW10\HW10\bin\Debug\net8.0\HW10.exe
+D:\c#\HW`S\HW10\HW10\bin\Debug\net8.0\HW10.deps.json
+D:\c#\HW`S\HW10\HW10\bin\Debug\net8.0\HW10.runtimeconfig.json
+D:\c#\HW`S\HW10\HW10\bin\Debug\net8.0\HW10.dll
+D:\c#\HW`S\HW10\HW10\bin\Debug\net8.0\HW10.pdb
+D:\c#\HW`S\HW10\HW10\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\HW10.csproj.AssemblyReference.cache
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\HW10.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\HW10.AssemblyInfoInputs.cache
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\HW10.AssemblyInfo.cs
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\HW10.csproj.CoreCompileInputs.cache
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\HW10.csproj.Up2Date
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\HW10.dll
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\refint\HW10.dll
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\HW10.pdb
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\HW10.genruntimeconfig.cache
+D:\c#\HW`S\HW10\HW10\obj\Debug\net8.0\ref\HW10.dll
