@@ -18,6 +18,12 @@ public class CommandController : ICommandController
 
         try
         {
+            var statusDic = new Dictionary<string, StatusEnum>
+            {
+                { "available", StatusEnum.available },
+                { "not available", StatusEnum.notavailable }
+            };
+
             switch (instructor)
             {
                 case "register":
@@ -29,36 +35,46 @@ public class CommandController : ICommandController
                 case "login":
                     username = GetArgument(parts, "--username");
                     password = GetArgument(parts, "--password");
-                   _userService.Login(username, password);
+                    _userService.Login(username, password);
                     break;
 
                 case "change":
-                    var status = GetArgument(parts, "--status");
+                    if (parts.Length < 3) 
+                    {
+                        Console.WriteLine("Missing arguments for change command.");
+                        return;
+                    }
 
-                        if (Enum.TryParse<StatusEnum>(status.Replace(" ", ""), true, out var statusEnum))
-                        {
-                            _userService.UpdateStatus( statusEnum);
-                        }
-                        else
-                        {
-                            Console.WriteLine("Invalid status. Please use 'available' or 'not available'.");
-                        } 
+                    var statusValue = GetArgument(parts, "--status").ToLower();
+
+                    if (statusDic.TryGetValue(statusValue, out var statusEnum))
+                    {
+                        _userService.UpdateStatus(statusEnum);
+                        Console.WriteLine($"Status changed to {statusValue}.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid status. Please use 'available' or 'not available'.");
+                    }
                     break;
-
 
                 case "changepassword":
                     var oldPassword = GetArgument(parts, "--old");
                     var newPassword = GetArgument(parts, "--new");
-                    _userService.ChangePassword( oldPassword, newPassword );
+                    _userService.ChangePassword(oldPassword, newPassword);
                     break;
 
                 case "logout":
                     _userService.Logout();
                     break;
 
-                default:
-                    throw new Exception("invalid command!!!");
+                case "search":
+                    var userName = GetArgument(parts, "--username");
+                    _userService.Search(userName);
                     break;
+
+                default:
+                    throw new Exception("Invalid command!");
             }
         }
         catch (Exception ex)
@@ -73,6 +89,15 @@ public class CommandController : ICommandController
         if (index == -1 || index + 1 >= parts.Length)
             throw new ArgumentException($"Missing value for {key}");
 
-        return parts[index + 1];
+        // جمع‌آوری تمام آرگومان‌ها تا رسیدن به آرگومان بعدی
+        var value = new List<string>();
+        for (int i = index + 1; i < parts.Length; i++)
+        {
+            if (parts[i].StartsWith("--")) // وقتی به آرگومان بعدی رسیدیم
+                break;
+            value.Add(parts[i]);
+        }
+
+        return string.Join(" ", value);
     }
 }

@@ -7,14 +7,14 @@ namespace HW10.ENTITIES;
 public class User
 {
     public string UserName { get; set; }
-    public string Password { get; protected set; }
+    public string Password { get; set; }
     public StatusEnum Status { get; set; }
 
     public User(string username, string pass)
     {
         UserName = username;
         Password = pass;
-        Status = StatusEnum.notavailble;
+        Status = StatusEnum.notavailable;
     }
     public void SetPass(string pass)
     {
@@ -56,19 +56,7 @@ public class User
 
     }
 
-    public void ChangePass(string oldPassword, string newPassword)
-    {
-        if (Password == oldPassword)
-        {
-            SetPass(newPassword);
-        }
-        else
-        {
-            throw new PassError("Incorrect old password!!!");
-        }
-
-    }
-
+   
    
 }
 

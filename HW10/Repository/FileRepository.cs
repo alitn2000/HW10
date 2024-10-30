@@ -54,7 +54,7 @@ public class FileRepository : IFileRepository
             throw new Exception("User not found in the system.");
         }
 
-        existingUser.SetPass(user.Password);
+        existingUser.Password =user.Password;
         existingUser.Status = user.Status;
 
         var updatedData = JsonConvert.SerializeObject(users, Formatting.Indented);

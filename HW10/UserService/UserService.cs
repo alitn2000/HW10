@@ -34,7 +34,7 @@ public class UserService : IUserService
 
     public void Login(string username, string password)
     {
-        var user = _ = fileRepo.GetByName(username);
+        var user = fileRepo.GetByName(username);
         if (user.Password != password)
         {
             throw new Exception("Incorrect password!!!");
@@ -58,12 +58,19 @@ public class UserService : IUserService
     public void Search(string username)
     {
         var users = fileRepo.GetAll();
-        var results = users.FindAll(u => u.UserName.StartsWith(username, StringComparison.OrdinalIgnoreCase));
-
-        foreach (var user in results)
+        var results = users.FindAll(u => u.UserName.StartsWith(username));
+        if (results.Count() == 0)
         {
-            Console.WriteLine($"{user.UserName} | Status: {user.Status}");
+            throw new Exception("no user found !!!");
         }
+        else
+        {
+            foreach (var user in results)
+            {
+                Console.WriteLine($"{user.UserName} | Status: {user.Status}");
+            }
+        }
+       
     }
 
     public void ChangePassword(string oldPassword, string newPassword)
@@ -74,7 +81,15 @@ public class UserService : IUserService
         {
             try
             {
-                _currentUser.ChangePass(oldPassword, newPassword);
+
+                if (_currentUser.Password == oldPassword)
+                {
+                    _currentUser.Password = newPassword;
+                }
+                else
+                {
+                    throw new PassError("Incorrect old password!!!");
+                }
 
                 fileRepo.UpdateUser(_currentUser);
 
