@@ -88,12 +88,12 @@ public class CommandController : ICommandController
         int index = Array.IndexOf(parts, key);
         if (index == -1 || index + 1 >= parts.Length)
             throw new ArgumentException($"Missing value for {key}");
+        //return parts[index+1]
 
-        // جمع‌آوری تمام آرگومان‌ها تا رسیدن به آرگومان بعدی
         var value = new List<string>();
         for (int i = index + 1; i < parts.Length; i++)
         {
-            if (parts[i].StartsWith("--")) // وقتی به آرگومان بعدی رسیدیم
+            if (parts[i].StartsWith("--")) 
                 break;
             value.Add(parts[i]);
         }

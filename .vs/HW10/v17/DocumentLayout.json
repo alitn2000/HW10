@@ -63,8 +63,7 @@
               "ViewState": "AgIAACMAAAAAAAAAAADwvz4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T12:20:35.336Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "HW10\\UserService\\UserService.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAwwIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:03:56.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T19:03:56.614Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "HW10\\Exceptions\\PassError.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:43:16.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T12:43:16.193Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "HW10\\Enums\\StatusEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T20:31:29.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T20:31:29.285Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "HW10\\UserService\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T04:06:00.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T04:06:00.603Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "HW10\\Repository\\IFileRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T02:19:40.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T02:19:40.235Z"
             },
             {
               "$type": "Document",
@@ -143,7 +137,7 @@
               "RelativeDocumentMoniker": "HW10\\Command Controller\\CommandController.cs",
               "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Command Controller\\CommandController.cs",
               "RelativeToolTip": "HW10\\Command Controller\\CommandController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T13:29:21.403Z",
               "EditorCaption": ""
@@ -158,8 +152,7 @@
               "RelativeToolTip": "HW10\\Repository\\FileRepository.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:11:53.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T19:11:53.086Z"
             },
             {
               "$type": "Document",
@@ -171,8 +164,7 @@
               "RelativeToolTip": "HW10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:01:18.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T12:01:18.455Z"
             },
             {
               "$type": "Document",
@@ -184,8 +176,7 @@
               "RelativeToolTip": "HW10\\Command Controller\\ICommandController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T02:36:11.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T02:36:11.192Z"
             }
           ]
         }
