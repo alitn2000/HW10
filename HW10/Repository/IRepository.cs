@@ -4,7 +4,7 @@ using HW10.Enums;
 
 namespace HW10.Repository;
 
-public interface IFileRepository
+public interface IRepository
 {
     void AddUser(User user);
     List<User> GetAll();

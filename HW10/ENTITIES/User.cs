@@ -6,10 +6,14 @@ namespace HW10.ENTITIES;
 
 public class User
 {
+    public int Id { get; set; }
     public string UserName { get; set; }
     public string Password { get; set; }
     public StatusEnum Status { get; set; }
-
+    public User()
+    {
+        
+    }
     public User(string username, string pass)
     {
         UserName = username;

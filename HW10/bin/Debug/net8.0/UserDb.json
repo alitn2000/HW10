@@ -8,5 +8,10 @@
     "UserName": "user1",
     "Password": "987654321aA@",
     "Status": 2
+  },
+  {
+    "UserName": "user2",
+    "Password": "987654321aA@",
+    "Status": 1
   }
 ]

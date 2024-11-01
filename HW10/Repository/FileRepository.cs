@@ -9,7 +9,7 @@ using System.Text.Json.Nodes;
 
 namespace HW10.Repository;
 
-public class FileRepository : IFileRepository
+public class FileRepository : IRepository
 {
     private string Path = $"UserDb.json";
 

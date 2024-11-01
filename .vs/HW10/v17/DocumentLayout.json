@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "D:\\c#\\HW\u0060S\\HW10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\command controller\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\command controller\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\repository\\sqlrepository_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\repository\\sqlrepository_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\repository\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\repository\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\querys\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\querys\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\repository\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\repository\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\command controller\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\command controller\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\connectionstring\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\connectionstring\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\exceptions\\passerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +51,8 @@
       "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|solutionrelative:hw10\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E02F0FA-8875-4FE9-BAB1-D66938576FF0}|HW10\\HW10.csproj|d:\\c#\\hw\u0060s\\hw10\\hw10\\command controller\\icommandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,20 +66,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\ENTITIES\\User.cs",
-              "RelativeDocumentMoniker": "HW10\\ENTITIES\\User.cs",
-              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\ENTITIES\\User.cs",
-              "RelativeToolTip": "HW10\\ENTITIES\\User.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAADwvz4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Querys\\Query.cs",
+              "RelativeDocumentMoniker": "HW10\\Querys\\Query.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Querys\\Query.cs",
+              "RelativeToolTip": "HW10\\Querys\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:20:35.336Z",
-              "IsPinned": true
+              "WhenOpened": "2024-11-01T06:16:11.606Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlRepository.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\SqlRepository.cs",
+              "RelativeDocumentMoniker": "HW10\\Repository\\SqlRepository.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\SqlRepository.cs",
+              "RelativeToolTip": "HW10\\Repository\\SqlRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:04:36.76Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -71,43 +102,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "SqlRepository_ADO.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\SqlRepository_ADO.cs",
+              "RelativeDocumentMoniker": "HW10\\Repository\\SqlRepository_ADO.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\SqlRepository_ADO.cs",
+              "RelativeToolTip": "HW10\\Repository\\SqlRepository_ADO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:33:40.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "HW10\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\IRepository.cs",
+              "RelativeToolTip": "HW10\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:19:40.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\FileRepository.cs",
+              "RelativeDocumentMoniker": "HW10\\Repository\\FileRepository.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\FileRepository.cs",
+              "RelativeToolTip": "HW10\\Repository\\FileRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:11:53.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\UserService\\UserService.cs",
               "RelativeDocumentMoniker": "HW10\\UserService\\UserService.cs",
               "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\UserService\\UserService.cs",
               "RelativeToolTip": "HW10\\UserService\\UserService.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAwwIAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:03:56.614Z"
+              "WhenOpened": "2024-10-29T19:03:56.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommandController.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Command Controller\\CommandController.cs",
+              "RelativeDocumentMoniker": "HW10\\Command Controller\\CommandController.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Command Controller\\CommandController.cs",
+              "RelativeToolTip": "HW10\\Command Controller\\CommandController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAASwFMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:29:21.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PassError.cs",
-              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Exceptions\\PassError.cs",
-              "RelativeDocumentMoniker": "HW10\\Exceptions\\PassError.cs",
-              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Exceptions\\PassError.cs",
-              "RelativeToolTip": "HW10\\Exceptions\\PassError.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\ENTITIES\\User.cs",
+              "RelativeDocumentMoniker": "HW10\\ENTITIES\\User.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\ENTITIES\\User.cs",
+              "RelativeToolTip": "HW10\\ENTITIES\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:43:16.193Z"
+              "WhenOpened": "2024-10-29T12:20:35.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StatusEnum.cs",
-              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Enums\\StatusEnum.cs",
-              "RelativeDocumentMoniker": "HW10\\Enums\\StatusEnum.cs",
-              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Enums\\StatusEnum.cs",
-              "RelativeToolTip": "HW10\\Enums\\StatusEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T20:31:29.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\UserService\\IUserService.cs",
               "RelativeDocumentMoniker": "HW10\\UserService\\IUserService.cs",
@@ -115,48 +188,25 @@
               "RelativeToolTip": "HW10\\UserService\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T04:06:00.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IFileRepository.cs",
-              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\IFileRepository.cs",
-              "RelativeDocumentMoniker": "HW10\\Repository\\IFileRepository.cs",
-              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\IFileRepository.cs",
-              "RelativeToolTip": "HW10\\Repository\\IFileRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T02:19:40.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CommandController.cs",
-              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Command Controller\\CommandController.cs",
-              "RelativeDocumentMoniker": "HW10\\Command Controller\\CommandController.cs",
-              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Command Controller\\CommandController.cs",
-              "RelativeToolTip": "HW10\\Command Controller\\CommandController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:29:21.403Z",
+              "WhenOpened": "2024-10-30T04:06:00.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileRepository.cs",
-              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\FileRepository.cs",
-              "RelativeDocumentMoniker": "HW10\\Repository\\FileRepository.cs",
-              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Repository\\FileRepository.cs",
-              "RelativeToolTip": "HW10\\Repository\\FileRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "PassError.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Exceptions\\PassError.cs",
+              "RelativeDocumentMoniker": "HW10\\Exceptions\\PassError.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Exceptions\\PassError.cs",
+              "RelativeToolTip": "HW10\\Exceptions\\PassError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:11:53.086Z"
+              "WhenOpened": "2024-10-29T12:43:16.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Program.cs",
               "RelativeDocumentMoniker": "HW10\\Program.cs",
@@ -164,11 +214,38 @@
               "RelativeToolTip": "HW10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:01:18.455Z"
+              "WhenOpened": "2024-10-29T12:01:18.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Enums\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "HW10\\Enums\\StatusEnum.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Enums\\StatusEnum.cs",
+              "RelativeToolTip": "HW10\\Enums\\StatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:31:29.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\ConnectionString\\Connection.cs",
+              "RelativeDocumentMoniker": "HW10\\ConnectionString\\Connection.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW10\\HW10\\ConnectionString\\Connection.cs",
+              "RelativeToolTip": "HW10\\ConnectionString\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:43:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ICommandController.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW10\\HW10\\Command Controller\\ICommandController.cs",
               "RelativeDocumentMoniker": "HW10\\Command Controller\\ICommandController.cs",
@@ -176,7 +253,8 @@
               "RelativeToolTip": "HW10\\Command Controller\\ICommandController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T02:36:11.192Z"
+              "WhenOpened": "2024-10-30T02:36:11.192Z",
+              "EditorCaption": ""
             }
           ]
         }
